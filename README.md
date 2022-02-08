@@ -1,7 +1,5 @@
 # wishListCore
 
-This is a practice project for myself.
-
 I used Angular + Express + Mongodb. 
 
 I can add a product to the wish list by entering the product's name, price, website link and note(option).
