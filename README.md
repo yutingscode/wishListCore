@@ -16,5 +16,7 @@ node app.js to run the server.
 
 Note: Mongodb and MongoDBCompass need to set up on the computer. After set up, create a database called "products", and a collection called "products"
 
+# Next steps
+Add sign up and login authentication functions 
 
 
