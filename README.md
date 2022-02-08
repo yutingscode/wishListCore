@@ -9,7 +9,7 @@ I can delete a product from the wish list by clicking the name of the product. C
 All the products on the wish list will store to the database locally.
 
 # Here is the UI of my project
-![ScreenShot](https://github.com/yutingscode/WishListUI/blob/master/src/photo/wishListScreenShot.PNG)
+![ScreenShot](https://github.com/yutingscode/WishListUI/blob/main/src/photo/wishListScreenShot.PNG)
 
 # How to run the app
 node app.js to run the server.
